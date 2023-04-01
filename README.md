@@ -89,20 +89,19 @@ Requisitos do Projeto
 
 Requisitos Funcionais
 
-
-| ID  | Descrição |Prioridade|
-| ------------- |-------------||
-| RF-01 | O aplicativo deve ter no mínimo dois modos diferentes, um para amadores e iniciantes, e outro para músicos já experientes.     |Alta|
-| RF-02      | O aplicativo deverá conter um playground, onde seja possível o usuário interagir com a interface.     |Alta|
-| RF-03      | Para o playground, apresentar as notas corretas de acordo com a escolha do usuário.     |Alta|
-| RF-04      | Para o playground, ao menos dois instrumentos devem ser apresentados como opções de escolha (violão, piano).     |Alta|
-| RF-05      | Para o playground, o usuário poderá fazer o overlapping de no máximo 3 escalas no mesmo tom.     |Média|
-| RF-06      | Para o playground, deve haver uma opção para que o usuário identifique as terças e quintas, de acordo com sua escolha.     |Baixa|
-| RF-07      | Para o playground, na escolha da interface do violão, o usuário poderá escolher entre afinações padrões, ou criar afinações personalizadas.|Baixa|
-| RF-08      | Para o playground, dependendo das notas escolhidas, o aplicativo deverá gerar um código, que ficará disponível ao usuário, para que o mesmo possa guardar suas configurações para usá-las mais tarde.     |Baixa|
-| RF-09      | Para o playground, haverá um modo de construção de escalas totalmente manual (direcionados para pessoas experientes/professores).     |Alta|
-| RF-10      | O aplicativo deve conter, para iniciantes, exercícios básicos de música.     |Média|
-| RF-11      | Para os exercícios, o usuário poderá escolher entre até três dificuldades.     |Média|
+| ID    |                                                                                               Descrição                                                                                               | Prioridade |
+|-------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------:|
+| RF-01 | O aplicativo deve ter no mínimo dois modos diferentes, um para amadores e iniciantes, e outro para músicos já experientes.                                                                            | Alta       |
+| RF-02 | O aplicativo deverá conter um playground, onde seja possível o usuário interagir com a interface.                                                                                                     | Alta       |
+| RF-03 | Para o playground, apresentar as notas corretas de acordo com a escolha do usuário.                                                                                                                   | Alta       |
+| RF-04 | Para o playground, ao menos dois instrumentos devem ser apresentados como opções de escolha (violão, piano).                                                                                          | Alta       |
+| RF-05 | Para o playground, o usuário poderá fazer o overlapping de no máximo 3 escalas no mesmo tom.                                                                                                          | Média      |
+| RF-06 | Para o playground, deve haver uma opção para que o usuário identifique as terças e quintas, de acordo com sua escolha.                                                                                | Baixa      |
+| RF-07 | Para o playground, na escolha da interface do violão, o usuário poderá escolher entre afinações padrões, ou criar afinações personalizadas.                                                           | Baixa      |
+| RF-08 | Para o playground, dependendo das notas escolhidas, o aplicativo deverá gerar um código, que ficará disponível ao usuário, para que o mesmo possa guardar suas configurações para usá-las mais tarde. | Baixa      |
+| RF-09 | Para o playground, haverá um modo de construção de escalas totalmente manual (direcionados para pessoas experientes/professores).                                                                     | Alta       |
+| RF-10 | O aplicativo deve conter, para iniciantes, exercícios básicos de música.                                                                                                                              | Média      |
+| RF-11 | Para os exercícios, o usuário poderá escolher entre até três dificuldades.                                                                                                                            | Média      |
 
 Requisitos não funcionais
 
