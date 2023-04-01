@@ -45,9 +45,9 @@ As personas levantadas durante o processo de investigação do problema através
 | Hobbies           | Sua família é composta por músicos, por isso, naturalmente adora cantar.                                                                                                                  |
 | Aplicativos       | Linkedin, Whatsapp, Kwai, Tidal                                                                                                                                                           |
 
-| **Sérgio Gomes** | **Idade**                                                                                                                                  |
+| **[FOTO]**| **Sérgio Gomes**                                                                                                                                 |
 |------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| **[FOTO]**       | **18**                                                                                                                                     |
+|   **Idade**    | **18**                                                                                                                                     |
 | Ocupação         | Estudante                                                                                                                                  |
 | Motivações       | Sérgio tem um ídolo e escuta muita música no seu dia-a-dia. Por isso se interessa em aprender sobre os instrumentos utilizados pelo ídolo. |
 | Frustrações      | Incapacidade técnica de tocar instrumentos musicais como seu ídolo.                                                                        |
@@ -55,9 +55,9 @@ As personas levantadas durante o processo de investigação do problema através
 | Aplicativos      | TikTok, Instagram, WhatsApp, Kwai, Twitter                                                                                                 |
 
 
-| **Maria Vasconcelos** | **Idade**                                                                                               |
+|**[FOTO]**  |  **Maria Vasconcelos**                                                                                             |
 |-----------------------|---------------------------------------------------------------------------------------------------------|
-| **[FOTO]**            | **23**                                                                                                  |
+|  **Idade**           | **23**                                                                                                  |
 | Ocupação              | Estudante                                                                                               |
 | Motivações            | Maria quer ser uma músicista profissional no futuro.                                                    |
 | Frustrações           | Por falta de recursos, Maria não consegue adentrar no meio onde o Piano ou Saxofone são mais populares. |
@@ -65,9 +65,9 @@ As personas levantadas durante o processo de investigação do problema através
 | Aplicativos           | Whatsapp, TikTok, Duolingo, LinkedIn, Kwai, Twitter, Spotify, Deezer                                    |
 
 
-| **Fernanda Couto** | **Idade**                                                                                                                                                                                   |
+| **[FOTO]**  | **Fernanda Couto**                                                                                                                                                                               |
 |--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **[FOTO]**         | **45**                                                                                                                                                                                      |
+|  **Idade**        | **45**                                                                                                                                                                                      |
 | Ocupação           | Professora de educação infantil                                                                                                                                                             |
 | Motivações         | Fernanda já toca um instrumento músical, e gostaria de criar suas próprias composições.                                                                                                     |
 | Frustrações        | Devido ao tempo, Fernanda não pode fazer cursos presenciais de música. Devido à falta de intuitividade das ferramentas, Fernanda não consegue se aprofundar no seu desenvolvimento músical. |
