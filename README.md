@@ -1,171 +1,122 @@
-<center>
+Documentação de Contexto
 
-### PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS
-### INSTITUTO DE CIÊNCIAS EXATAS E INFORMÁTICA
-### UNIDADE EDUCACIONAL EAD
-</center>
-<center>
+A origem da música não é precisa, mas os estudos demonstram que ela foi criada pelos seres humanos primitivos como uma forma de comunicação e cerimónia ritual, o que demonstra o seu alto valor cultural, criando identidades para os povos e integrando crenças. 
 
-### Bacharelado em Sistemas de Informação
-</center>
-<center>
+No Brasil, a primeira instituição de ensino musical foi fundada em 1841, a Escola de Música da Universidade Federal do Rio de Janeiro (EMUFRJ), ela é a instituição mais antiga em atividade no nosso país. Apesar da música estar presente em nossas vidas a tanto tempo, foi a partir da década de 1990, com o avanço da neurociência, que tivemos um aumento significativo nas pesquisas científicas sobre os benefícios da música para o desenvolvimento humano. A neurociência nos permitiu compreender os processos cerebrais envolvidos na percepção e produção musical.
 
-<br><br><br><br><br><br><br>
-### Nathália Lopes Soares Bispo<br>Marilia<br>João Marcos Magalhães Füzessy Teixeira<br>Daniel<br>Luiz Andrade<br>Matheus<br><br><br><br><br>
+Desde então, como demonstrado por Viviane Rocha e Paulo Boggio na obra A música por uma óptica neurocientífica, há uma relação entre música e melhorias em diversas áreas como cognição, habilidades sociais, linguagem e emoções. Com a implementação de técnicas de neuroimagem, como a ressonância magnética, é possível medir a atividade cerebral em tempo real. Isso possibilitou que fosse observado como o cérebro reage aos estímulos sensoriais.
 
-</center>
+Por ser uma parte tão importante da cultura e também tão benéfica à saúde, a música ganhou espaço no mundo todo, fazendo com que profissionais de diversas áreas como  psicologia, pedagogia e medicina se interessassem por esses estudos e aplicassem ao seu cotidiano. O uso da mesma como ferramenta de auxílio ao ensino de crianças autistas, implementação de terapias musicais, dentre outros aspectos, são exemplos de tal interesse
 
-<center>
+Tendo como referência todos esses fatores, fica claro a importância de aprender e conhecer sobre a teoria musical e os benefícios de se tocar algum instrumento. Para isso ser possível, é fundamental ter uma boa ferramenta.
 
-### MUSICIAN'S TOOL<br><br><br><br><br><br><br><br><br><br><br><br>
+Problema
 
-</center>
+A teoria musical é complexa e extensa, por possuir uma linguagem técnica que envolve leitura de partituras, entendimento sobre alguns conceitos como escalas, harmonias e intervalos, muitos aspirantes do conhecimento musical acabam desistindo por não ter uma forma de estudar. Diante desse fato, identificamos um problema que afeta tanto quem quer aprender quanto quem quer ensinar, a falta de ferramentas que auxiliem de forma simples e visual os conceitos musicais.  
 
-<center>
+Objetivos
 
-Belo Horizonte<br>
-2023<br>
-</center>
-<center>
+O objetivo deste trabalho se concentra na criação de um software de treinamento que possa, de forma interativa, rápida e acessível, apoiar aqueles que querem aprender, ensinar ou aperfeiçoar seus conhecimentos em música e prática de instrumentos.
 
-### Nathalia Lopes Soares Bispo<br>Marilia<br>João Marcos Magalhães Füzessy Teixeira<br>Daniel<br>Luiz Andrade<br>Matheus<br><br><br><br><br>
-</center>
-<center>
+Justificativa
 
-### MUSICIAN'S TOOL<br><br><br><br><br>
-</center>
-<blockquote> 
-
-Trabalho de Software apresentado como
-requisito parcial à aprovação na disciplina
-Projeto: Aplicações Web
-</blockquote>
-<br><br>
-<center>
-
-### Professor: Marco Rodrigo Costa
-</center>
-<br><br><br><br><br><br><br><br><br><br><br>
-<center>
-
-Belo Horizonte<br>
-2023<br><br><br><br><br>
-</center>
-<center>
-
-# SUMÁRIO<br><br>
-
-</center>
-
-1. [Apresentação](#apresentacao)
-
-   1.1. [Problema](#problema)
-   
-   1.2. [Objetivo do trabalho](#objetivo-do-trabalho)
-   
-   1.3. [Justificativa](#justificativa)
-   
-   1.4. [Público alvo](#publico-alvo)
-   
-2. [Requisitos](#requisitos)
-
-   2.1. [Requisitos Funcionais](#requisitos-Funcionais)
-   
-   2.2. [Requisitos não funcionais](#requisitos-funcionais)
-   
-   2.3. [Restrições](#restricoes)
-   
-3. [Projeto da solução](#projeto-da-solucao)
-
-4. [Metodologia de trabalho](#metodologia-de-trabalho)
-
-5. [Implementação da solução](#implementacao-da-solucao)
-
-6. [Avaliação da Aplicação](#avaliacao-da-Aplicacao)
-
-7. [REFERÊNCIAS](#referencias)
-<br><br><br><br>
+Estudos médicos demonstram que a música colabora para melhorias na memória, tratamento de doenças como TEA, TDAH e depressão (MUSZKAT; 2000). Além disso, cerca de 79% da população, segundo Opinion Box, escuta música todos os dias. Nota-se que há grande influência do tema no cotidiano dos brasileiros. De forma complementar, a lei federal 11.769 editada em 2008, colocou a música como conteúdo obrigatório, mas não exclusivo, do componente curricular do ensino público. Os estudos explanados neste documento são justificados pela falta de meios para se alcançar o fim desejado - seja pela lei, seja pelos anseios sociais - que é o aprendizado musical.
 
 
+Público-alvo
 
-## 1. Apresentação <a name="apresentacao"></a> 
-<br>
+Considerando a universalidade da música, todos os cidadãos podem se favorecer dessa solução de aprendizagem musical. O público alvo deste trabalho são pessoas iniciantes que não tem conhecimento no assunto, aqueles que já sabem um pouco e querem aprimorar suas técnicas e, também, professores de música que sentem a necessidade de uma ferramenta que complementa o ensinamento e lhes permite direcionar atividades de treino para os alunos. Diante de uma pesquisa feita para o desenvolvimento deste trabalho, definiu-se que o público alvo são pessoas entre 18 e 50 anos, que já sabem tocar algum instrumento mas querem aperfeiçoar, e também aqueles que não sabem e são iniciantes.
 
-Desde o som produzido por uma onda, pelo uivo do vento passando por entre as árvores, por animais e trovões, até o simples barulho ritmado de gotas de chuva caindo sobre o solo. Todas essas sonoridades representam notas musicais que, por sua vez, são uma convenção humana, criada para facilitar a leitura de partituras, para criar uma linguagem própria que será traduzida em som. As notas, quando organizadas, originam acordes, e um conjunto de acordes geram um campo harmônico. (necessito de confirmação da veracidade técnica dessa informação)
+Especificação do Projeto
 
-A música faz parte do cotidiano dos seres humanos, e hoje já é reconhecidamente uma ciência com amplo campo de estudo e enorme complexidade e relevância no cenário educacional. Prova disto é que em 2008 houve uma alteração na Lei de Diretrizes e Bases da Educação Pública, onde, como versa o art. 1º, §6º da lei federal 11.769, “A música deverá ser conteúdo obrigatório(..)” dos componentes curriculares do ensino público.
+Através de uma pesquisa em formato de entrevista, e diante de uma análise geral do problema na perspectiva do usuário, consolidamos as especificações do projeto e detalhamos na consolidação a seguir.
 
-### 1.1. Problema <a name="problema"></a> 
-<br>
+Personas
 
-A teoria musical é complexa e extensa, inacessível para iniciantes por possuir uma linguagem bastante técnica e refinada. A leitura de partituras requer um arcabouço teórico bem desenvolvido e pleno conhecimento de conceitos como intervalos, escalas, harmonias, dentre outros. Diante de tantos pré-requisitos complexos e que requerem bastante esforço e tempo, observa-se uma lacuna enorme existente entre aqueles que já possuem total domínio de um instrumento, e os que querem aprender ou se aprimorar, o que pode gerar uma dificuldade de ensino, por parte dos experientes, e de aprendizado, por parte dos novatos. 
+As personas levantadas durante o processo de investigação do problema através de entrevistas com o público alvo estão representadas abaixo:
 
-Diante desse cenário de aprendizado musical identificamos um problema que afeta tanto quem quer aprender quanto quem quer ensinar, a falta de ferramentas que auxiliem de forma simples e visual os conceitos musicais.
+    
+| Marcelo Faria || | |||
+| ------------- |:-------------:| | |||
+| [FOTO]  | Dados Pessoais | Aplicativos | Motivações | Frustrações|Hobbies|
+| Idade| 30|Linkedin|Gostaria de trazer os benefícios da música para os seus atendimentos|Marcelo é a única pessoa na família que não tem conhecimento em relação à música. Marcelo, como um total amador, não consegue aprender em meio a sua família, devido a falta de didática.|Sua família é composta por músicos, por isso, naturalmente adora cantar.|
+| Ocupação|Psicólogo|WhatsApp|||Jogar futebol|
+|||Kwai||||
+|||Tidal||||
 
-### 1.2. Objetivo do trabalho <a name="objetivo-do-trabalho"></a> 
-<br> 
-
-Oferecer um aplicativo que possa, de forma interativa, rápida e acessível, apoiar aqueles que querem aprender, ensinar, ou aperfeiçoar conceitos que envolvem a teoria musical.
-
-Apoiar alunos, iniciantes e entusiastas a aprender teoria musical.
-
-Tornar a teoria musical mais inclusiva e acessível para os que não possuem condições de arcar com um profissional particular. 
-
-Facilitar a transmissão de conhecimento entre professor e aluno.
-
-Auxiliar na implementação da teoria musical em instituições de ensino que enfrentam dificuldades ao passar por tal conteúdo.
-
-### 1.3. Justificativa <a name="justificativa"></a>
-<br> 
-
-A teoria musical é um aspecto fundamental para qualquer pessoa que deseja se aprofundar no universo da música, e obrigatório no ensino público. A aplicação visa acelerar e difundir conhecimentos musicais de forma divertida e acessível, gerando mais motivação para alunos, em aprender, e professores, ensinar. O aplicativo também tem como foco reduzir as dificuldades daqueles que querem aprender sozinhos e sentem falta de recursos para tal. Existe uma dificuldade em se encontrar soluções de qualidade para aprender sobre o assunto, especialmente para os iniciantes.
-Os resultados desse projeto beneficiam a sociedade por popularizar e dinamizar o acesso à educação musical, bem como a facilitar a aplicação do disposto na lei federal 11.769
+| Sérgio Gomes ||||||
+| ------------- |:-------------:|||||
+| [FOTO] | Dados Pessoais | Aplicativos | Motivações | Frustrações|Hobbies|
+| Idade| 18|Instagram|Sérgio tem um ídolo e escuta muita música no seu dia-a-dia. Por isso se interessa em aprender sobre os instrumentos utilizados pelo ídolo.|Incapacidade técnica de tocar instrumentos musicais como seu ídolo. |Jogos digitais|
+| Ocupação|Estudante|TikTok||||
+|||WhatsApp||||
+|||Kwai||||
+|||Twitter||||
 
 
-### 1.4. Público alvo <a name="publico-alvo"></a>
-<br> 
-
-O aplicativo tem como público alvo estudantes de música de todos os níveis, músicos profissionais que desejam aprimorar habilidades em teoria musical e aplicar esse conhecimento em seu trabalho, e professores de música que podem o usar de forma a complementar o conteúdo lecionado em suas aulas.
-<br> 
-
-## 2. Requisitos <a name="requisitos"></a>
-<br> 
-
-### 2.1. Requisitos Funcionais <a name="requisitos-funcionais"></a>
-
-- O aplicativo deve ter no mínimo dois modos diferentes, um para amadores e iniciantes, e outro para músicos já experientes;
-- O aplicativo deve ser traduzido no mínimo para Português e Inglês;
-- O aplicativo deverá ser responsivo para os mais variados tamanhos de tela, mesmo que isso signifique a ocultação de algumas funcionalidades; 
-- O aplicativo deve conter, para iniciantes, exercícios básicos de música; 
-- O aplicativo deverá conter um playground, onde seja possível o usuário interagir com a interface; 
-  - Para o playground, apresentar as notas corretas de acordo com a escolha do usuário; 
-  - Para o playground, ao menos dois instrumentos devem ser apresentados como opções de  escolha (violão, piano); 
-  - Para o playground, o usuário poderá fazer o overlapping de no máximo 3 escalas no mesmo tom;
-  - Para o playground, na escolha da interface do violão, o usuário poderá escolher entre afinações padrões, ou criar afinações personalizadas; 
-  - Para o playground, dependendo das notas escolhidas, o aplicativo deverá gerar um código, que ficará disponível ao usuário, para que o mesmo possa guardar suas configurações para usá-las mais tarde; 
-  - Para o playground, haverá um modo de construção de escalas totalmente manual, o aplicativo deverá gerar um código que guarde suas configurações;
-<br> 
-
-#### História de usuário 1: estudante de música iniciante.
-História: Uma estudante de música iniciante que está procurando um aplicativo que possa ajudá-la a aprender os conceitos básicos de música de uma forma interativa. Ela deseja um modo para iniciantes no aplicativo para que possa começar a aprender música a partir do zero. Sofia prefere usar o aplicativo em português, pois é sua língua nativa.
-
-#### História de usuário 2: músico profissional.
-História: João é um músico experiente e está procurando um aplicativo que possa ajudá-lo a aprimorar suas habilidades musicais. Ele procura um modo avançado no aplicativo que possa desafiar suas habilidades e conhecimentos musicais. João prefere usar o aplicativo em inglês, pois é a língua comum usada no mundo da música.
-
-#### História de usuário 3: estudante de música avançado.
-História: Pedro é um estudante de música avançado que deseja usar um aplicativo que possa ajudá-lo a praticar diferentes escalas musicais de uma forma interativa. Ele quer um playground no aplicativo que possa ajudá-lo a tocar violão e piano, além de permitir o overlapping de escalas. Pedro também deseja criar afinações personalizadas para o violão, além de ter a capacidade de armazenar suas configurações de escalas manualmente para referência futura.
+| Maria Vasconcelos  |  |  |  | | |
+| ------------- |:-------------:|||||
+|  [FOTO] | Dados Pessoais | Aplicativos | Motivações | Frustrações|Hobbies|
+| Idade| 23|Facebook|Maria quer ser uma musicista profissional no futuro.|Por falta de recursos, Maria não consegue adentrar no meio onde o Piano ou Saxofone são mais populares.|Adora ir em eventos como orquestras e conservatórios, óperas e concertos.|
+| Ocupação|Estudante|Linkedin||||
+|||Duolingo||||
+|||Deezer||||
 
 
-### 2.2. Requisitos não funcionais <a name="requisitos-funcionais"></a>
+| Fernanda Couto  |  |  |  | | |
+| ------------- |:-------------:|||||
+| [FOTO]  | Dados Pessoais | Aplicativos | Motivações | Frustrações|Hobbies|
+| Idade| 45|Facebook|Fernanda já toca um instrumento musical e gostaria de criar suas próprias composições, para que possa ensinar matérias usando as letras das músicas que ela compor.| Devido ao tempo, Fernanda não pode fazer cursos presenciais de música.|Ir ao cinema
+| Ocupação|Professora de educação infantil|Linkedin|||Escutar musicais variadas|
+|||Shein||||
+|||Spotify||||
+    
+Histórias de usuários
 
-### 2.3 Restrições <a name="restricoes"></a>
+| Eu como…  | …quero/desejo… |…para...|
+| ------------- |-------------||
+| Marcelo Faria | Aprender sobre música e aprender a tocar algum instrumento musical     |Como psicólogo, quero utilizar isso como recurso durante meus atendimentos.|
+| Maria Vasconcelos      | Aprender sobre música clássica e teoria musical gratuitamente     |Não dispõe de recursos para aprender com profissionais da área|
+| Fernanda Couto      | Aprender a criar suas próprias composições     |Para utilizar esses conhecimentos em suas aulas como professora|
+| Fernanda Couto      | Testar seus conhecimentos através de exercícios     |Para verificar se está evoluindo em seu aprendizado|
+| Maria Vasconcelos      | Aprender a ler partituras e outras representações musicais     ||
+| Maria Vasconcelos      | aprender a identificar a sonoridade de cada nota musical     ||
 
-## 3. Projeto da Solução <a name="projeto-da-solucao"></a>
+Requisitos do Projeto
 
-## 4. Metodologia de trabalho <a name="metodologia-de-trabalho"></a>
+Requisitos Funcionais
 
-## 5. Implementação da solução <a name="implementacao-da-solucao"></a>
 
-## 6. Avaliação da Aplicação <a name="avaliacao-da-aplicacao"></a>
+| ID  | Descrição |Prioridade|
+| ------------- |-------------||
+| RF-01 | O aplicativo deve ter no mínimo dois modos diferentes, um para amadores e iniciantes, e outro para músicos já experientes.     |Alta|
+| RF-02      | O aplicativo deverá conter um playground, onde seja possível o usuário interagir com a interface.     |Alta|
+| RF-03      | Para o playground, apresentar as notas corretas de acordo com a escolha do usuário.     |Alta|
+| RF-04      | Para o playground, ao menos dois instrumentos devem ser apresentados como opções de escolha (violão, piano).     |Alta|
+| RF-05      | Para o playground, o usuário poderá fazer o overlapping de no máximo 3 escalas no mesmo tom.     |Média|
+| RF-06      | Para o playground, deve haver uma opção para que o usuário identifique as terças e quintas, de acordo com sua escolha.     |Baixa|
+| RF-07      | Para o playground, na escolha da interface do violão, o usuário poderá escolher entre afinações padrões, ou criar afinações personalizadas.|Baixa|
+| RF-08      | Para o playground, dependendo das notas escolhidas, o aplicativo deverá gerar um código, que ficará disponível ao usuário, para que o mesmo possa guardar suas configurações para usá-las mais tarde.     |Baixa|
+| RF-09      | Para o playground, haverá um modo de construção de escalas totalmente manual (direcionados para pessoas experientes/professores).     |Alta|
+| RF-10      | O aplicativo deve conter, para iniciantes, exercícios básicos de música.     |Média|
+| RF-11      | Para os exercícios, o usuário poderá escolher entre até três dificuldades.     |Média|
 
-## REFERÊNCIAS <a name="referencias"></a>
+Requisitos não funcionais
+
+| ID  | Descrição |Prioridade|
+| ------------- |-------------||
+| RNF-01 | O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku);     |Alta|
+| RNF-02      | O site deverá ser responsivo permitindo a visualização em um celular de forma adequada     |Alta|
+| RNF-03      | O site deve ter bom nível de contraste entre os elementos da tela em conformidade     |Média|
+| RNF-04      | O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)     |Alta|
+| RNF-05      | O site deve possuir recursos de acessibilidade tais como aumento da fonte     |Média|
+
+Restrições
+
+| ID  | Descrição |
+| ------------- |-------------|
+| RE-01 | O projeto deverá seguir o cronograma de entregas proposto, respeitando a data de entrega a cada etapa.     |
+| RE-02      | O aplicativo deve se restringir às tecnologias básicas da Web no Frontend.     |
+| RE-03      | A equipe não pode subcontratar o desenvolvimento do trabalho.     |
+| RE-04      | Devido a restrições de orçamento, serão utilizadas apenas figuras de bancos de imagens gratuitos, como por exemplo o Freepik ou de criação do próprio grupo com as devidas atribuições de crédito e direitos de uso.      |
+| RE-05      | Pelo mesmo motivo, utilizaremos uma versão de avaliação/gratuita do provedor de hospedagem.     |
