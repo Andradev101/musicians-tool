@@ -38,7 +38,7 @@ As personas levantadas durante o processo de investigação do problema através
     
 | **[FOTO]** |    **Marcelo Faria**                                                                                                                                                                               |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|    **Idade**   | **30**                                                                                                                                                                                    |
+|     **Idade**   | **30**                                                                                                                                                                                    |
 | Ocupação          | Psicólogo                                                                                                                                                                                 |
 | Motivações        | Gostaria de trazer os benefícios da música para os seus atendimentos                                                                                                                      |
 | Frustrações       | Marcelo é a única pessoa na família que não tem conhecimento em relação à música. Marcelo, como um total amador, não consegue aprender em meio a sua família, devido a falta de didática. |
@@ -76,14 +76,14 @@ As personas levantadas durante o processo de investigação do problema através
     
 Histórias de usuários
 
-| Eu como…  | …quero/desejo… |…para...|
-| ------------- |-------------||
-| Marcelo Faria | Aprender sobre música e aprender a tocar algum instrumento musical     |Como psicólogo, quero utilizar isso como recurso durante meus atendimentos.|
-| Maria Vasconcelos      | Aprender sobre música clássica e teoria musical gratuitamente     |Não dispõe de recursos para aprender com profissionais da área|
-| Fernanda Couto      | Aprender a criar suas próprias composições     |Para utilizar esses conhecimentos em suas aulas como professora|
-| Fernanda Couto      | Testar seus conhecimentos através de exercícios     |Para verificar se está evoluindo em seu aprendizado|
-| Maria Vasconcelos      | Aprender a ler partituras e outras representações musicais     ||
-| Maria Vasconcelos      | aprender a identificar a sonoridade de cada nota musical     ||
+| Eu como…          |                           …quero/desejo…                           |                                  ...para...                                 |
+|-------------------|:------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
+| Marcelo Faria     | Aprender sobre música e aprender a tocar algum instrumento musical | Como psicólogo, quero utilizar isso como recurso durante meus atendimentos. |
+| Maria Vasconcelos | Aprender sobre música clássica e teoria musical gratuitamente      | Não dispõe de recursos para aprender com profissionais da área              |
+| Fernanda Couto    | Aprender a criar suas próprias composições                         | Para utilizar esses conhecimentos em suas aulas como professora             |
+| Fernanda Couto    | Testar seus conhecimentos através de exercícios                    | Para verificar se está evoluindo em seu aprendizado                         |
+| Maria Vasconcelos | Aprender a ler partituras e outras representações musicais         |                                                                             |
+| Maria Vasconcelos | aprender a identificar a sonoridade de cada nota musical           |                                                                             |
 
 Requisitos do Projeto
 
