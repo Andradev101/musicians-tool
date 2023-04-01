@@ -36,40 +36,43 @@ Personas
 As personas levantadas durante o processo de investigação do problema através de entrevistas com o público alvo estão representadas abaixo:
 
     
-| Marcelo Faria || | |||
-| ------------- |:-------------:| | |||
-| [FOTO]  | Dados Pessoais | Aplicativos | Motivações | Frustrações|Hobbies|
-| Idade| 30|Linkedin|Gostaria de trazer os benefícios da música para os seus atendimentos|Marcelo é a única pessoa na família que não tem conhecimento em relação à música. Marcelo, como um total amador, não consegue aprender em meio a sua família, devido a falta de didática.|Sua família é composta por músicos, por isso, naturalmente adora cantar.|
-| Ocupação|Psicólogo|WhatsApp|||Jogar futebol|
-|||Kwai||||
-|||Tidal||||
+| **Marcelo Faria** | **Idade**                                                                                                                                                                                 |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **[FOTO]**        | **30**                                                                                                                                                                                    |
+| Ocupação          | Psicólogo                                                                                                                                                                                 |
+| Motivações        | Gostaria de trazer os benefícios da música para os seus atendimentos                                                                                                                      |
+| Frustrações       | Marcelo é a única pessoa na família que não tem conhecimento em relação à música. Marcelo, como um total amador, não consegue aprender em meio a sua família, devido a falta de didática. |
+| Hobbies           | Sua família é composta por músicos, por isso, naturalmente adora cantar.                                                                                                                  |
+| Aplicativos       | Linkedin, Whatsapp, Kwai, Tidal                                                                                                                                                           |
 
-| Sérgio Gomes ||||||
-| ------------- |:-------------:|||||
-| [FOTO] | Dados Pessoais | Aplicativos | Motivações | Frustrações|Hobbies|
-| Idade| 18|Instagram|Sérgio tem um ídolo e escuta muita música no seu dia-a-dia. Por isso se interessa em aprender sobre os instrumentos utilizados pelo ídolo.|Incapacidade técnica de tocar instrumentos musicais como seu ídolo. |Jogos digitais|
-| Ocupação|Estudante|TikTok||||
-|||WhatsApp||||
-|||Kwai||||
-|||Twitter||||
-
-
-| Maria Vasconcelos  |  |  |  | | |
-| ------------- |:-------------:|||||
-|  [FOTO] | Dados Pessoais | Aplicativos | Motivações | Frustrações|Hobbies|
-| Idade| 23|Facebook|Maria quer ser uma musicista profissional no futuro.|Por falta de recursos, Maria não consegue adentrar no meio onde o Piano ou Saxofone são mais populares.|Adora ir em eventos como orquestras e conservatórios, óperas e concertos.|
-| Ocupação|Estudante|Linkedin||||
-|||Duolingo||||
-|||Deezer||||
+| **Sérgio Gomes** | **Idade**                                                                                                                                  |
+|------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| **[FOTO]**       | **18**                                                                                                                                     |
+| Ocupação         | Estudante                                                                                                                                  |
+| Motivações       | Sérgio tem um ídolo e escuta muita música no seu dia-a-dia. Por isso se interessa em aprender sobre os instrumentos utilizados pelo ídolo. |
+| Frustrações      | Incapacidade técnica de tocar instrumentos musicais como seu ídolo.                                                                        |
+| Hobbies          | Jogos digitais                                                                                                                             |
+| Aplicativos      | TikTok, Instagram, WhatsApp, Kwai, Twitter                                                                                                 |
 
 
-| Fernanda Couto  |  |  |  | | |
-| ------------- |:-------------:|||||
-| [FOTO]  | Dados Pessoais | Aplicativos | Motivações | Frustrações|Hobbies|
-| Idade| 45|Facebook|Fernanda já toca um instrumento musical e gostaria de criar suas próprias composições, para que possa ensinar matérias usando as letras das músicas que ela compor.| Devido ao tempo, Fernanda não pode fazer cursos presenciais de música.|Ir ao cinema
-| Ocupação|Professora de educação infantil|Linkedin|||Escutar musicais variadas|
-|||Shein||||
-|||Spotify||||
+| **Maria Vasconcelos** | **Idade**                                                                                               |
+|-----------------------|---------------------------------------------------------------------------------------------------------|
+| **[FOTO]**            | **23**                                                                                                  |
+| Ocupação              | Estudante                                                                                               |
+| Motivações            | Maria quer ser uma músicista profissional no futuro.                                                    |
+| Frustrações           | Por falta de recursos, Maria não consegue adentrar no meio onde o Piano ou Saxofone são mais populares. |
+| Hobbies               | Ir em eventos como orquestras e conservatórios, opéras e concertos.                                     |
+| Aplicativos           | Whatsapp, TikTok, Duolingo, LinkedIn, Kwai, Twitter, Spotify, Deezer                                    |
+
+
+| **Fernanda Couto** | **Idade**                                                                                                                                                                                   |
+|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **[FOTO]**         | **45**                                                                                                                                                                                      |
+| Ocupação           | Professora de educação infantil                                                                                                                                                             |
+| Motivações         | Fernanda já toca um instrumento músical, e gostaria de criar suas próprias composições.                                                                                                     |
+| Frustrações        | Devido ao tempo, Fernanda não pode fazer cursos presenciais de música. Devido à falta de intuitividade das ferramentas, Fernanda não consegue se aprofundar no seu desenvolvimento músical. |
+| Hobbies            | Ir ao cinema, escutar música variadas                                                                                                                                                       |
+| Aplicativos        | Whatsapp, Facebook, Shein, LinkedIn, Spotify                                                                                                                                                |
     
 Histórias de usuários
 
