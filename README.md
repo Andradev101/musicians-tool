@@ -36,9 +36,9 @@ Personas
 As personas levantadas durante o processo de investigação do problema através de entrevistas com o público alvo estão representadas abaixo:
 
     
-| **Marcelo Faria** | **Idade**                                                                                                                                                                                 |
+| **[FOTO]** |    **Marcelo Faria**                                                                                                                                                                               |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **[FOTO]**        | **30**                                                                                                                                                                                    |
+|    **Idade**   | **30**                                                                                                                                                                                    |
 | Ocupação          | Psicólogo                                                                                                                                                                                 |
 | Motivações        | Gostaria de trazer os benefícios da música para os seus atendimentos                                                                                                                      |
 | Frustrações       | Marcelo é a única pessoa na família que não tem conhecimento em relação à música. Marcelo, como um total amador, não consegue aprender em meio a sua família, devido a falta de didática. |
