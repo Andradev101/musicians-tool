@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+h1 {
+  color: #1d3557;
+  margin-top: 50px;
+}
+
+p {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+button {
+  background-color: #3275a8;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #457b9d;
+}
+
+.user-interaction {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.playground {
+  width: 100%;
+  height: clamp(300px, 25vh, 30vh);
+  border: 1px solid black;
+}
